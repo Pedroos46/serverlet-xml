@@ -23,5 +23,6 @@ public class LlegirXML extends HttpServlet {
     public void getProjecte(){
 
 
+
     }
 }
